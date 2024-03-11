@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Prajwal027
-- 👀 I’m interested in ...AI and Machine Learning
-- 🌱 I’m currently learning ...Python and Full stack Development
-- 💞️ I’m looking to collaborate on ...AI and  Full stack Development
+- 👀 I’m interested in ...AI, Networking and Machine Learning
+- 🌱 I’m currently learning ...Jenkins CI/CD and Python web development
+- 💞️ I’m looking to collaborate on ...Jenkins CI/CD 
 - 📫 How to reach me ...prajwalpm10@gmail.com
 
 <!---
