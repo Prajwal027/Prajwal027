@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Prajwal027
 - 👀 I’m interested in ...AI, Networking and Machine Learning
-- 🌱 I’m currently learning ...Jenkins CI/CD and Python web development
+- 🌱 I’m currently learning ...Jenkins CI/CD and Git-Actions
 - 💞️ I’m looking to collaborate on ...Jenkins CI/CD 
 - 📫 How to reach me ...prajwalpm10@gmail.com
 
